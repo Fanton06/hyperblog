@@ -1,4 +1,4 @@
-#HYperblog
+#Hyperblog
 Un blog increíble para el [curso de Git y GitHub] de platzi
 >el curso se trata de superrme a mi mismo y demostrar de lo que soy capaz de hacer .
 
